@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+https://gentle-tartufo-136c04.netlify.app/ 
+click this url to check out the project live  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
